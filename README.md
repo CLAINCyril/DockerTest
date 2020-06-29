@@ -1,5 +1,5 @@
 # DockerTest
-Quick start socker-compose reading the doc
+Quick start docker-compose reading the doc
 
 Prerequisites
 
